@@ -1,5 +1,5 @@
-# Microsoft-Codefundo-
-Artificial Intelligence:
+# Microsoft Codefundo 
+# Artificial Intelligence:
 For Predicting the time and impact of earthquakes
 
 We want to introduce AI into the picture for predicting natural disasters.
@@ -8,8 +8,9 @@ You might think Earth is a giant lump of rock, but you'd be wrong—it's more li
 Earthquakes happen at places called faults (or fault lines) where the jagged edges of two tectonic plates grind against one another. Most earthquake activity happens in the middles of the oceans where plates are pushing apart on the floor of the sea.
 Eg Ring of fire in Pacific Ocean.
 Currently we have advanced ground detection systems but we need some work on ocean detection systems, sensors underneath ocean to predict the weight of the water which can help us with earthquakes as well as in predicting the direction of possible tsunamis.
-Big issue: Tectonic plates move very slowly and hence it is difficult to predict when they are going collide and produce an energy wave in the form of an earthquake. Also, it is hard to predict the impact of aftershocks that can go on for a few hours/days.
-So, firstly we need really high measurement devices or sensors that are going to detect even the slightest change in the distance between tectonic plates, then previous earthquakes statistics can provide us with the distance, speed, friction between plates and various other parameters between tectonic plates. Then based on those statistics we can train an AI model which will give us a prediction of impact and time of the collision of tectonic plates. 
+# Big issue: Tectonic plates move very slowly and hence it is difficult to predict when they are going collide and produce an energy wave in the form of an earthquake. Also, it is hard to predict the impact of aftershocks that can go on for a few hours/days.
+# Solution:
+# So, firstly we need really high measurement devices or sensors that are going to detect even the slightest change in the distance between tectonic plates, then previous earthquakes statistics can provide us with the distance, speed, friction between plates and various other parameters between tectonic plates. Then based on those statistics we can train an AI model which will give us a prediction of impact and time of the collision of tectonic plates. 
 Also, this AI model will be region-specific for better precision and time efficiency.
 Also, we need satellites to have the same algorithm for predicting earthquakes and their impact.
 Based on this concept, an app can be created which will track your location and provide you with live probability of the earthquake in your area and will alert you before time if there are any chances of them in your area.
